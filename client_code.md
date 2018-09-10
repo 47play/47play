@@ -46,10 +46,10 @@ SdkManager.getInstance().login(this, mLoginCallback);
 
 	登录成功返回**result**数据结构
 
-```json
+```shell
 {
-    "user_id": "9",  //平台用户Id
-    "token": "b82500734285a6b4c85816cbe2aa8d92"  //用户登录验证token，用于服务器校验
+    "user_id": "9",  #平台用户Id
+    "token": "b82500734285a6b4c85816cbe2aa8d92"  #用户登录验证token，用于服务器校验
 }
 ```
 
