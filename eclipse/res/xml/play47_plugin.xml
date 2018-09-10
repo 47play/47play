@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <cache-path
+        name="47play"
+        path="." />
+    <external-path
+        name="name"
+        path="47play" />
+</paths>
