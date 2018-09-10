@@ -108,7 +108,7 @@ SdkManager.getInstance().login(this, mLoginCallback);
 ```json
 {
     "user_id": "9",  //平台用户Id
-    "token": "b82500734285a6b4c85816cbe2aa8d92"  //用户登录验证token，用户服务器校验
+    "token": "b82500734285a6b4c85816cbe2aa8d92"  //用户登录验证token，用于服务器校验
 }
 ```
 
