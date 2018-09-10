@@ -2,7 +2,7 @@
 
 - #### Android
 
-##### 	1、[Android Studio](android-studio.md)
+##### ​	1、[Android Studio](android_studio.md)
 
 ##### 	2、[Eclipse或者手动](eclipse.md)
 
