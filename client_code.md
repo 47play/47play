@@ -59,7 +59,7 @@ SdkManager.getInstance().login(this, mLoginCallback);
 /
 *	@params mAct			游戏Activity
 *	@params product_id		商品Id
-*	@params product_name	商品名称
+*	@params	product_name		商品名称
 *	@params amount			金额   1分钱="0.01"
 *	@params cp_order_id		订单Id
 *	@params cp_extra		透传参数
